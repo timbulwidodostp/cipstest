@@ -1,6 +1,8 @@
 # cipstest
 Cross-sectionally Augmented IPS Test for Unit Roots in Panel Models Use cipstest (plm) With (In) R Software
 
+https://www.youtube.com/watch?v=ql3X-IAO7cA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
